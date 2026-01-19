@@ -1,16 +1,12 @@
 <div align="center">
 
 # ATHEON LABS
-## Pasadena, California
 
 ### Advancing the Frontier of Digital Privacy
 
 [![Website](https://img.shields.io/badge/Website-atheon.xyz-1f6feb?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://atheon.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atheon_Labs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/atheon-labs/)
 [![GitHub](https://img.shields.io/badge/GitHub-atheonxyz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atheonxyz)
-
----
-
 </div>
 
 <table>
