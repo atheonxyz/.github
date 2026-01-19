@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🔐 ATHEON LABS
+# ATHEON LABS
+## Pasadena, California
 
 ### Advancing the Frontier of Digital Privacy
 
@@ -16,9 +17,6 @@
   <tr>
 
 We're an R&D laboratory pushing the boundaries of frontier cryptographic technologies. Our mission: bridge theoretical innovation and production-ready systems that enable a more private, secure, and trustworthy digital future.
-      <img src="https://img.shields.io/badge/Research-Focus-FF6B6B?style=flat-square&logo=flask&logoColor=white" alt="Research Focus"/>
-      <img src="https://img.shields.io/badge/Cryptography-Frontier-4ECDC4?style=flat-square&logo=lock&logoColor=white" alt="Cryptography"/>
-      <img src="https://img.shields.io/badge/Privacy-First-45B7D1?style=flat-square&logo=shield&logoColor=white" alt="Privacy"/>
   </tr>
 </table>
 
@@ -78,13 +76,6 @@ Contributing to the broader privacy and cryptography community
 ```
 ZK-SNARKs | ZK-STARKs | Folding Schemes | IPA | FHE | Garbled Circuits
 ```
-
-**Infrastructure & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 </div>
 
 ## 🤝 Collaborate With Us
@@ -101,7 +92,7 @@ We believe in the power of open-source research and collaborative cryptography d
 
 ---
 
-## 📖 Research & Learning
+## 📖 Our Research Focus
 
 Stay updated with the latest in cryptographic innovation:
 
@@ -114,14 +105,6 @@ Stay updated with the latest in cryptographic innovation:
 ---
 
 <div align="center">
-
-### **Building Cryptography That Respects Privacy**
-
-<img src="https://img.shields.io/badge/Status-Active_Research-green?style=flat-square" alt="Active Research"/>
-<img src="https://img.shields.io/badge/Community-Open-blue?style=flat-square" alt="Open Community"/>
-<img src="https://img.shields.io/badge/License-Varied_OSS-informational?style=flat-square" alt="Open Source"/>
-
----
 
 **Made with 🔐 by [Atheon Labs](https://atheon.xyz/)**
 
