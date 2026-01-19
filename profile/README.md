@@ -85,7 +85,7 @@ We believe in the power of open-source research and collaborative cryptography d
 
 ## 📖 Our Current Endeavours
 
-We are actively researching andd innovating in these spaces:
+We are actively researching and innovating in these spaces:
 
 - 🔐 **Zero-Knowledge Cryptography** – Proofs and verification
 - 🔗 **Multi-Party Computation** – Secure collaborative computation
