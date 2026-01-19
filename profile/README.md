@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-atheon.xyz-1f6feb?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://atheon.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atheon_Labs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/atheon-labs/)
-[![GitHub](https://img.shields.io/badge/GitHub-atheonxyz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atheonxyz)
+[![GitHub](https://img.shields.io/badge/GitHub-atheonxyz-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atheonxyz)
 </div>
 
 <table>
@@ -83,9 +83,9 @@ We believe in the power of open-source research and collaborative cryptography d
 
 👉 **Reach out:** [atheon.xyz](https://atheon.xyz/) | [LinkedIn](https://www.linkedin.com/company/atheon-labs/)
 
-## 📖 Our Research Focus
+## 📖 Our Current Endeavours
 
-Stay updated with the latest in cryptographic innovation:
+We are actively researching andd innovating in these spaces:
 
 - 🔐 **Zero-Knowledge Cryptography** – Proofs and verification
 - 🔗 **Multi-Party Computation** – Secure collaborative computation
