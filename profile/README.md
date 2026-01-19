@@ -27,7 +27,6 @@ We're solving critical challenges in:
 - ⚡ **Scalable Protocols** – Performance without compromising security
 - 🚀 **Production Deployment** – Moving theory into real-world systems
 
----
 
 ## 🚀 What We're Building
 
@@ -46,8 +45,6 @@ Optimizing performance without compromising security
 Contributing to the broader privacy and cryptography community
 
 </div>
-
----
 
 ## 💻 Tech Stack
 
@@ -86,8 +83,6 @@ We believe in the power of open-source research and collaborative cryptography d
 
 👉 **Reach out:** [atheon.xyz](https://atheon.xyz/) | [LinkedIn](https://www.linkedin.com/company/atheon-labs/)
 
----
-
 ## 📖 Our Research Focus
 
 Stay updated with the latest in cryptographic innovation:
@@ -97,8 +92,6 @@ Stay updated with the latest in cryptographic innovation:
 - 🛡️ **Privacy-Enhancing Technologies** – Data protection mechanisms
 - ⚙️ **Cryptographic Engineering** – Implementation & optimization
 - 📊 **Scalability Solutions** – Performance in production systems
-
----
 
 <div align="center">
 
