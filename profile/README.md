@@ -14,65 +14,14 @@
 
 <table>
   <tr>
-    <td width="50%">
-      
-> **Zero-Knowledge Cryptography** • **Multi-Party Computation** • **Privacy-Preserving Technologies**
 
 We're an R&D laboratory pushing the boundaries of frontier cryptographic technologies. Our mission: bridge theoretical innovation and production-ready systems that enable a more private, secure, and trustworthy digital future.
-
-    </td>
-    <td width="50%">
       <img src="https://img.shields.io/badge/Research-Focus-FF6B6B?style=flat-square&logo=flask&logoColor=white" alt="Research Focus"/>
       <img src="https://img.shields.io/badge/Cryptography-Frontier-4ECDC4?style=flat-square&logo=lock&logoColor=white" alt="Cryptography"/>
       <img src="https://img.shields.io/badge/Privacy-First-45B7D1?style=flat-square&logo=shield&logoColor=white" alt="Privacy"/>
-    </td>
   </tr>
 </table>
 
----
-
-## 🎯 What We Do
-
-<div align="center">
-
-| **Zero-Knowledge Proofs** | **Multi-Party Computation** | **Privacy Infrastructure** |
-|:---:|:---:|:---:|
-| Proving knowledge without revealing information | Secure distributed computation across untrusted parties | Building blocks for privacy-centric applications |
-| ZK-SNARKs • ZK-STARKs • IPA • Folding Schemes | Secret Sharing • Threshold Schemes • MPC Protocols | Encrypted Computation • Data Privacy • Access Control |
-
-</div>
-
----
-
-## 🔬 Research Focus
-
-### Core Technologies
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  ZERO-KNOWLEDGE CRYPTOGRAPHY                           │
-│  Proving knowledge without revealing information        │
-│  ▸ ZK-SNARKs & ZK-STARKs  ▸ Folding & IPA             │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│  MULTI-PARTY COMPUTATION (MPC)                         │
-│  Secure distributed computation across untrusted parties│
-│  ▸ Secret Sharing  ▸ Threshold Schemes  ▸ MPC Proto   │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│  PRIVACY-PRESERVING TECHNOLOGIES                        │
-│  Advanced protocols for confidential computation        │
-│  ▸ FHE  ▸ Oblivious Transfer  ▸ Garbled Circuits      │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│  CRYPTOGRAPHIC INFRASTRUCTURE                           │
-│  Building robust foundations for privacy ecosystems     │
-│  ▸ Implementation  ▸ Optimization  ▸ Deployment       │
-└─────────────────────────────────────────────────────────┘
-```
 
 ### Problem Space
 
@@ -138,23 +87,6 @@ ZK-SNARKs | ZK-STARKs | Folding Schemes | IPA | FHE | Garbled Circuits
 
 </div>
 
----
-
-## 📚 Our Repositories
-
-<div align="center">
-
-| Repository | Status | Description |
-|:---:|:---:|:---|
-| **ZK Protocols** | 🔜 Coming Soon | Zero-knowledge proof implementations & optimizations |
-| **MPC Framework** | 🔜 Coming Soon | Multi-party computation primitives & protocols |
-| **Privacy Toolkit** | 🔜 Coming Soon | Cryptographic utilities for privacy-preserving systems |
-| **Research** | 📖 In Progress | Publications & technical deep-dives |
-
-</div>
-
----
-
 ## 🤝 Collaborate With Us
 
 We believe in the power of open-source research and collaborative cryptography development.
@@ -192,7 +124,5 @@ Stay updated with the latest in cryptographic innovation:
 ---
 
 **Made with 🔐 by [Atheon Labs](https://atheon.xyz/)**
-
-*Frontier cryptography. Production systems. Privacy first.*
 
 </div>
