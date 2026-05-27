@@ -1,100 +1,95 @@
 <div align="center">
 
-# ATHEON LABS
+<img src="./assets/banner.png" alt="Atheon" width="100%" />
 
-### Advancing the Frontier of Digital Privacy
+###### Building Solutions With First Principles
 
-[![Website](https://img.shields.io/badge/Website-atheon.xyz-1f6feb?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://atheon.xyz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atheon_Labs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/atheon-labs/)
-[![GitHub](https://img.shields.io/badge/GitHub-atheonxyz-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atheonxyz)
+&nbsp;
+
+<a href="https://atheon.xyz"><img src="https://img.shields.io/badge/-atheon.xyz-111?style=flat-square&labelColor=111&color=111" alt="website"></a>
+&nbsp;
+<a href="https://x.com/atheonxyz"><img src="https://img.shields.io/badge/-%40atheonxyz-111?style=flat-square&labelColor=111&color=111&logo=x&logoColor=white" alt="x"></a>
+&nbsp;
+<a href="https://www.linkedin.com/company/atheon-labs/"><img src="https://img.shields.io/badge/-Atheon%20Labs-111?style=flat-square&labelColor=111&color=111&logo=linkedin&logoColor=white" alt="linkedin"></a>
+&nbsp;
+<a href="https://github.com/atheonxyz"><img src="https://img.shields.io/badge/-atheonxyz-111?style=flat-square&labelColor=111&color=111&logo=github&logoColor=white" alt="github"></a>
+
+&nbsp;
+
 </div>
+
+---
+
+<br/>
+
+> **Atheon is a cryptography-first research and engineering lab.**
+> We're crafting a private, instant, and compliant financial infrastructure for the on-chain future — bridging frontier theory and production-ready systems.
+
+<br/>
+
+## What we build
 
 <table>
-  <tr>
+<tr>
+<td width="33%" valign="top">
 
-We're an R&D laboratory pushing the boundaries of frontier cryptographic technologies. Our mission: bridge theoretical innovation and production-ready systems that enable a more private, secure, and trustworthy digital future.
-  </tr>
+### Privacy Infrastructure
+
+Zero-knowledge proofs, multi-party computation, and FHE — engineered for real-world performance, not just whitepapers.
+
+</td>
+<td width="33%" valign="top">
+
+### Identity &amp; Verification
+
+Anonymous yet auditable. Systems where compliance is built in, not bolted on.
+
+</td>
+<td width="33%" valign="top">
+
+### On-chain Finance
+
+Settlement rails that are private by default, instant by design, and compliant where it matters.
+
+</td>
+</tr>
 </table>
 
+<br/>
 
-### Problem Space
-
-We're solving critical challenges in:
-
-- ✨ **Verifiable Computation** – Proving correctness without revealing inputs
-- 🔐 **Secure Data Sharing** – Privacy-preserving analytics and collaboration
-- 🛡️ **Privacy-First Identity** – Anonymous yet verifiable systems
-- ⚡ **Scalable Protocols** – Performance without compromising security
-- 🚀 **Production Deployment** – Moving theory into real-world systems
-
-
-## 🚀 What We're Building
-
-<div align="center">
-
-### **Production-Ready Cryptography**
-Moving ZK and MPC from theory to deployable systems
-
-### **Privacy Infrastructure**
-Building blocks for privacy-centric applications
-
-### **Scalable Solutions**
-Optimizing performance without compromising security
-
-### **Open Collaboration**
-Contributing to the broader privacy and cryptography community
-
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-**Cryptographic Libraries**
-
-![Halo2](https://img.shields.io/badge/Halo2-Zero_Knowledge-FF6B6B?style=for-the-badge)
-![Circom](https://img.shields.io/badge/Circom-ZK_Circuits-4ECDC4?style=for-the-badge)
-![Plonk](https://img.shields.io/badge/PLONK-Proving_System-45B7D1?style=for-the-badge)
-![MPC](https://img.shields.io/badge/MPC-Secure_Computation-95E1D3?style=for-the-badge)
-
-**Proof Systems & Protocols**
+## How we think
 
 ```
-ZK-SNARKs | ZK-STARKs | Folding Schemes | IPA | FHE | Garbled Circuits
+1.  Problem first, technology second.
+2.  Reason from first principles — no cargo culting.
+3.  Move fast. Test assumptions faster.
+4.  Trust is the foundation, not the feature.
 ```
-</div>
 
-## 🤝 Collaborate With Us
+<br/>
 
-We believe in the power of open-source research and collaborative cryptography development.
+## Toolchain
 
-**Interested in:**
-- 🔬 Contributing to frontier crypto research
-- 💡 Collaborating on privacy-preserving systems
-- 📖 Sharing knowledge and best practices
-- 🌍 Building the privacy infrastructure of tomorrow
+**Languages** &nbsp;·&nbsp; `Rust` &nbsp; `TypeScript` &nbsp; `Solidity` &nbsp; `Python`
 
-👉 **Reach out:** [atheon.xyz](https://atheon.xyz/) | [LinkedIn](https://www.linkedin.com/company/atheon-labs/)
+**Cryptography** &nbsp;·&nbsp; `Halo2` &nbsp; `Circom` &nbsp; `PLONK` &nbsp; `STARK` &nbsp; `MPC` &nbsp; `FHE` &nbsp; `Garbled Circuits`
 
-## 📖 Our Current Endeavours
+**Domains** &nbsp;·&nbsp; `Zero-Knowledge` &nbsp; `Verifiable Computation` &nbsp; `Privacy-Enhancing Tech` &nbsp; `On-chain Infrastructure`
 
-We are actively researching and innovating in these spaces:
+<br/>
 
-- 🔐 **Zero-Knowledge Cryptography** – Proofs and verification
-- 🔗 **Multi-Party Computation** – Secure collaborative computation
-- 🛡️ **Privacy-Enhancing Technologies** – Data protection mechanisms
-- ⚙️ **Cryptographic Engineering** – Implementation & optimization
-- 📊 **Scalability Solutions** – Performance in production systems
+## Collaborate
+
+We work in the open. If you're researching, building, or partnering on the privacy frontier — we'd like to hear from you.
+
+→ Visit&nbsp; **[atheon.xyz](https://atheon.xyz)** &nbsp;·&nbsp; Follow&nbsp; **[@atheonxyz](https://x.com/atheonxyz)** &nbsp;·&nbsp; Connect on&nbsp; **[LinkedIn](https://www.linkedin.com/company/atheon-labs/)**
+
+<br/>
+
+---
 
 <div align="center">
 
-**Made with 🔐 by [Atheon Labs](https://atheon.xyz/)**
+<sub>© 2026 Atheon &nbsp;·&nbsp; Building the future of finance.</sub>
 
 </div>
