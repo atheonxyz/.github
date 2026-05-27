@@ -27,27 +27,27 @@
 
 <br/>
 
-## What we build
+### What we build
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Privacy Infrastructure
+#### Privacy Infrastructure
 
 Zero-knowledge proofs, multi-party computation, and FHE — engineered for real-world performance, not just whitepapers.
 
 </td>
 <td width="33%" valign="top">
 
-### Identity &amp; Verification
+#### Identity &amp; Verification
 
 Anonymous yet auditable. Systems where compliance is built in, not bolted on.
 
 </td>
 <td width="33%" valign="top">
 
-### On-chain Finance
+#### On-chain Finance
 
 Settlement rails that are private by default, instant by design, and compliant where it matters.
 
@@ -57,7 +57,7 @@ Settlement rails that are private by default, instant by design, and compliant w
 
 <br/>
 
-## How we think
+### How we think
 
 ```
 1.  Problem first, technology second.
@@ -68,7 +68,7 @@ Settlement rails that are private by default, instant by design, and compliant w
 
 <br/>
 
-## Toolchain
+### Toolchain
 
 **Languages** &nbsp;·&nbsp; `Rust` &nbsp; `TypeScript` &nbsp; `Solidity` &nbsp; `Python`
 
@@ -78,7 +78,7 @@ Settlement rails that are private by default, instant by design, and compliant w
 
 <br/>
 
-## Collaborate
+### Collaborate
 
 We work in the open. If you're researching, building, or partnering on the privacy frontier — we'd like to hear from you.
 
@@ -90,6 +90,6 @@ We work in the open. If you're researching, building, or partnering on the priva
 
 <div align="center">
 
-<sub>© 2026 Atheon &nbsp;·&nbsp; Building the future of finance.</sub>
+<sub>© 2026 Atheon</sub>
 
 </div>
